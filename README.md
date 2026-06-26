@@ -23,6 +23,12 @@ Projeto desenvolvido para aprendizagem de:
 - Camilla Pinheiro
 - Kevin Willian 
 
+#Atualização 1.0 26/06/26
+- Menu de navegação 
+- Mais informações sobre o projeto
+- Estrutura atualizada do site;
+- Correção de erros; 
+
 ## Repositório
 
 Projeto criado durante a disciplina de Metodologias Ágeis.
