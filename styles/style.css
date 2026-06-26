@@ -1,1 +1,52 @@
-ECHO est� ativado.
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*afeta todos os elementos*/
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+/*configura a página inteira*/
+header {
+    background-color: #0066cc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+/*estiliza o cabeçalho*/
+main{
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+/*estiliza a área principal do conteúdo.*/
+section{
+    margin-bottom: 20px;
+}
+/*organiza o espaço entre as seções*/
+button {
+    padding: 10px 20px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+    /*define a aparência dos botões*/
+
+button:hover {
+    background-color: #004a99;
+}
+/*muda a aparência do botão quando o mouse passa em cima.*/
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px;
+}
+/*estiliza o rodapé da pagina*/
